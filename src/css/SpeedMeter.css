@@ -1,0 +1,29 @@
+.card{
+    position: relative;
+    width:300px;
+    height:160px;   
+}
+.speedometer{
+    top:100px;
+    width:300px;
+    height:200px;
+    margin:10px;
+    border:red;
+   
+}
+.allCon{
+    padding:30px 30px;
+    
+    border-radius: 2px;
+    display:inline-block;
+  
+  height: 500px;
+  margin: 1rem;
+  background: white;
+  color:black;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22) ;
+}
+.nav2{
+    background: lightgrey;
+    height:50px;
+}

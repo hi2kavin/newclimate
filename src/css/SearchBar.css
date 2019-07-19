@@ -1,0 +1,92 @@
+
+.sugges{
+    
+    background-color:black;
+    border-radius: 5px;
+    width:250px;
+    height:40px;
+    margin:2px;
+    color:white;
+    text-align: center;
+    border:1px solid grey;
+    font-size: 20px;
+    z-index: 5;
+    transition: .35s;
+  
+}
+body{
+    background:#eceff1;
+    font-family: 'Quicksand', sans-serif;
+}
+.sugges:hover{
+    background-color:white;
+    color:black;
+    top:10px;
+}
+.searcher{
+    width:500px;
+}
+a{text-decoration: none;}
+
+.search-suggestion{
+    position: absolute;
+    padding-right:150px;
+    top:58px;
+    z-index: 5;
+}
+.profile{
+    margin:15px 10px 0px 0px;
+    width:0px;
+    height:800px;
+    position: absolute;
+   
+}
+.proPic{
+    height: 240px;
+    width:240px;
+    margin:20px;
+    border-radius: 50%;
+    border:5px double black;
+
+    
+    
+}
+.navbrad{
+   color:white
+    
+}
+.sidecon{
+    border-right: 2px solid black;
+    position: static;
+    background: red;
+    margin: 0px;
+}
+.bg-navigation{
+    background-color:black;
+    height:80px;
+}
+.linker{
+    color:white;
+    text-decoration: none;
+    font-size: 16px;
+    padding:20px 30px;
+    transition: .75s;
+    float:left
+}
+.linker:hover{
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+}
+.linker1{
+    color:white;
+    text-decoration: none;
+    font-size: 22px;
+    float:left;
+    padding:20px 30px;
+}
+.linker1:hover{
+    color:white;
+    text-decoration: none;
+    font-size: 22px;
+}
